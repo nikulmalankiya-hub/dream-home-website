@@ -7,7 +7,9 @@ A modern and responsive **real estate website** designed to showcase beautiful p
 [View Live Website](YOUR_LIVE_LINK_HERE)
 
 ## 📸 Project Preview
-![Uploading screencapture-127-0-0-1-5500-index-html-2026-09-25-11_18_17.png…]()
+
+<img width="1938" height="9394" alt="screencapture-127-0-0-1-5500-index-html-2026-09-25-11_18_17" src="https://github.com/user-attachments/assets/a01603b3-af94-47d2-a1e1-29111742488f" />
+
 
 
 ## ✨ Features
